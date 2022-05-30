@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-
+//Writing time data to a file (one month - one file) with the date the transaction was added.
 public class Bill {
 
 	private Map<String, Integer> profit = new HashMap<>();
