@@ -15,7 +15,7 @@ public class Main {
 		b.addMoney(10, "legasy");
 		b.addMoney(40, "gifts");
 		b.remMoney(10,"food");
-		b.remMoney(200,"home");
+		b.remMoney(30,"home");
 		b.persentCategoryAdd();
 	}
 
